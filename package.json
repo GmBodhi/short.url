@@ -1,0 +1,8 @@
+{
+  "name": "short.url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GmBodhi/short.url",
+  "author": "GmBodhi <71921036+GmBodhi@users.noreply.github.com>",
+  "license": "MIT"
+}
